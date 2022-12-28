@@ -23,7 +23,7 @@ import {
 } from "@arction/lcjs";
 import { Observable, Subscription } from "rxjs";
 
-const X_VIEW_MS = 4 * 1000;
+const X_VIEW_MS = 10 * 1000;
 const info = {
   name: "ECG-II",
   color: ColorHEX("#00ff00"),
